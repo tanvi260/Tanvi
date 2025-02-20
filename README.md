@@ -1,5 +1,6 @@
 # Tanvi
 Portfolio 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,13 +19,13 @@ Portfolio
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Tanvi</h1>
         <p>B.Tech First Year Student</p>
     </header>
     <div class="container">
         <section>
             <h2>About Me</h2>
-            <p>Hello! I am a first-year B.Tech student passionate about technology and innovation. Welcome to my portfolio.</p>
+            <p>Hello! I am Tanvi a first-year B.Tech student passionate about technology and innovation. Welcome to my portfolio.</p>
         </section>
         <section>
             <h2>Projects</h2>
@@ -48,10 +49,11 @@ Portfolio
         </section>
     </div>
     <footer>
-        <p>Contact: your.email@example.com | LinkedIn: linkedin.com/in/yourprofile</p>
+        <p>Contact: tanvi2607@gmail.com | LinkedIn: linkedin.com/in/tanvi</p>
     </footer>
 </body>
 </html>
+
 
 
 
